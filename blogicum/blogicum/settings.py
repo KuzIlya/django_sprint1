@@ -1,4 +1,3 @@
-"""Django settings for blogicum project."""
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
